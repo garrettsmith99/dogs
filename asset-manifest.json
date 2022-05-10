@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/dogs/static/css/main.073c9b0a.css",
-    "main.js": "/dogs/static/js/main.b712bc7d.js",
+    "main.css": "/dogs/static/css/main.99751c01.css",
+    "main.js": "/dogs/static/js/main.46948b84.js",
     "static/js/787.b7d35402.chunk.js": "/dogs/static/js/787.b7d35402.chunk.js",
-    "static/media/logo.svg": "/dogs/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/movieapp.png": "/dogs/static/media/movieapp.b40dac47ac435f1d3c20.png",
+    "static/media/me.jpg": "/dogs/static/media/me.56ba87d7d07018ebdeec.jpg",
+    "static/media/dataentry.png": "/dogs/static/media/dataentry.871a2506abad7df42916.png",
+    "static/media/firstproject.png": "/dogs/static/media/firstproject.093891bfad11323472d1.png",
     "index.html": "/dogs/index.html",
-    "main.073c9b0a.css.map": "/dogs/static/css/main.073c9b0a.css.map",
-    "main.b712bc7d.js.map": "/dogs/static/js/main.b712bc7d.js.map",
+    "main.99751c01.css.map": "/dogs/static/css/main.99751c01.css.map",
+    "main.46948b84.js.map": "/dogs/static/js/main.46948b84.js.map",
     "787.b7d35402.chunk.js.map": "/dogs/static/js/787.b7d35402.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.b712bc7d.js"
+    "static/css/main.99751c01.css",
+    "static/js/main.46948b84.js"
   ]
 }
