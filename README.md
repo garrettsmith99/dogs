@@ -1,6 +1,6 @@
 # dogs
 
-Please click o the navbar to get started with my website
+Please click on the navbar to get started with my website
 
 
 Enjoy my code 
